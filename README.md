@@ -5,6 +5,8 @@ A to move left. D to move right. Spacebar to jump. S to fall through blue platfo
 My reason for developing this was to reintroduce myself to the Unity landscape and become acquainted with it
 for future projects.
 
+[Try The Game Out](https://bostonstamm.github.io/UnitySideScroller)
+
 [Software Demo Video](https://youtu.be/7x2oKdHT0sg)
 
 # Development Environment
@@ -24,5 +26,3 @@ I used the Unity2D development suite to make this game.
 * Add a second level
 * Add sound effects
 * Improve pixel art
-
-[Try The Game Out](https://bostonstamm.github.io/UnitySideScroller)
