@@ -25,4 +25,4 @@ I used the Unity2D development suite to make this game.
 * Add sound effects
 * Improve pixel art
 
-./web/index.html
+[Try The Game Out](https://bostonstamm.github.io/UnitySideScroller)
