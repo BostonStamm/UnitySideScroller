@@ -1,0 +1,4 @@
+11/09/2025 02:30PM - 08:00PM - Trying to figure out how to use Unity.
+11/10/2025 11:30AM - 05:15PM - Looking up various tutorials on Youtube and making the GitHub and Unity project.
+11/15/2025 07:00PM - 12:00AM - Doing the bulk of development.
+11/16/2025 12:00AM - 01:20AM - Trying to figure out why my git wasn't pushing. Made video and submitted.
